@@ -1,5 +1,3 @@
-<a align="left" href="https://hits.sh/github.com/Matt-1337/"><img alt="Hits" align="center" src="https://hits.sh/github.com/Matt-1337.svg?style=plastic&label=Hatefullness&color=4c1414&labelColor=370404&logo=my%20hate"/></a>
-<br>
 i get whipped daily by clover...... whines....
 <br>
 <br>
