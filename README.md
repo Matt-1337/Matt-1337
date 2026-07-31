@@ -5,4 +5,4 @@
 <p align="center">   I am known as pony town's postal dude....
 <p align="center"> <a href="https://github.com/pt-contributers"> <img width="272" height="42" alt="pony towns postal dude" src="https://github.com/user-attachments/assets/9240b62a-a691-4cde-8067-9fc931b49c63" />
 <p align="center">   I am known as jean's biggest fan!
-<p align="center"> <a href="[https://github.com/fans-town]"> <img width="225" height="29" alt="pony towns jeans big fan" src="https://github.com/user-attachments/assets/8c320588-1d87-444b-9db0-625fd19d691b" />
+<p align="center"> <a href="https://github.com/fans-town"> <img width="225" height="29" alt="pony towns jeans big fan" src="https://github.com/user-attachments/assets/8c320588-1d87-444b-9db0-625fd19d691b" />
