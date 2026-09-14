@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Matt-1337&label=OLD%20TIME%20DEBT&color=fff29e&labelColor=f5a95a&style=flat" alt="OLD TIME DEBT">
 </p>
-<p align="center">    thank you all for 300 followrs 💝💞
+<p align="center">    thank you all for 300+ followers 💝💞
 <p align="center">   <img width="230" alt="mafioso thing" src="https://github.com/user-attachments/assets/18576179-978f-4e67-85d5-914e2634273d" />
 
 <p align="center">    happy suicide prevention month.
