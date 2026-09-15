@@ -3,6 +3,7 @@
 </p>
 <p align="center">    thank you all for 300+ followers 💝💞
 <p align="center">   <img width="230" alt="mafioso thing" src="https://github.com/user-attachments/assets/18576179-978f-4e67-85d5-914e2634273d" />
+<p align="center">    ltm if im interacting or sitting with anyone problematic!
 
 <p align="center">    happy suicide prevention month.
 <br>
