@@ -28,3 +28,15 @@
 <p align="center">    thank you guys
 
 </details>
+ <div align="center">
+ <details>
+  <summary>Memories</summary>
+ <br>
+<p align="center">  <img width="250" alt="group photo" src="https://github.com/user-attachments/assets/631eba19-a961-40fb-8f22-b24eb1e575c6" />
+<p align="center">  <img width="235" alt="2025 cud" src="https://github.com/user-attachments/assets/32dec5c1-d9cd-4a88-b78c-d2ce4b579bd7" />
+
+
+
+
+
+</details>
