@@ -19,12 +19,13 @@
  <details>
   <summary>Titles</summary>
  
-<p align="center"> <a href="https://github.com/pt-contributers"> <img width="272" height="42" alt="pony towns postal dude" src="https://github.com/user-attachments/assets/9240b62a-a691-4cde-8067-9fc931b49c63" />
-<p align="center"> <a href="https://github.com/fans-town"> <img width="225" height="29" alt="pony towns jeans big fan" src="https://github.com/user-attachments/assets/8c320588-1d87-444b-9db0-625fd19d691b" />
-<p align="center"> <a href="https://github.com/pt-medals"> <img width="362" height="36" alt="pony towns jeans yume" src="https://github.com/user-attachments/assets/c63566b2-1760-46f9-b420-ef6c34459b6a" />
+<p align="center"> <a href="https://github.com/pt-contributers"> <img width="272" alt="pony towns postal dude" src="https://github.com/user-attachments/assets/9240b62a-a691-4cde-8067-9fc931b49c63" />
+<p align="center"> <a href="https://github.com/fans-town"> <img width="225" alt="pony towns jeans big fan" src="https://github.com/user-attachments/assets/8c320588-1d87-444b-9db0-625fd19d691b" />
+<p align="center"> <a href="https://github.com/pt-medals"> <img width="362" alt="pony towns jeans yume" src="https://github.com/user-attachments/assets/c63566b2-1760-46f9-b420-ef6c34459b6a" />
 <p align="center"> <a href="https://github.com/ponytownyumeshippers
-"> <img width="271" height="32" alt="pony towns jeans yume2 0" src="https://github.com/user-attachments/assets/036a1b8b-753a-4b4a-aa4f-99ed5654b825" />
-
+"> <img width="271" alt="pony towns jeans yume2 0" src="https://github.com/user-attachments/assets/036a1b8b-753a-4b4a-aa4f-99ed5654b825" />
+<p align="center"> <a href="https://github.com/casinotown">
+<img width="318" alt="nom" src="https://github.com/user-attachments/assets/adc4c868-e1b5-4244-8577-d1723a89bda5" />
 <p align="center">    thank you guys
 
 </details>
