@@ -4,13 +4,6 @@
 <p align="center">    thank you all for 300+ followers 💝💞
 <p align="center">   <img width="230" alt="mafioso thing" src="https://github.com/user-attachments/assets/18576179-978f-4e67-85d5-914e2634273d" />
 <p align="center">    ltm if im interacting or sitting with anyone problematic!
-
-<p align="center">    happy suicide prevention month.
-<br>
-<br>
-<p align="center">    and thank YOU for being here I'm proud of anyone who's made it through hell and back. You're loved.
-<br>
-<br>
 <p align="center">    i get whipped daily by clover...... whines....
 <p align="center">   <img width="327" height="26" alt="16110" src="https://github.com/user-attachments/assets/040694aa-b744-4832-ab8f-4033458d7206" />
 <p align="center">   <img width="402" height="25" alt="16112" src="https://github.com/user-attachments/assets/18b7518f-95a3-4ed9-8474-75d290b01e82" />
